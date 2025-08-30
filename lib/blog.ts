@@ -42,4 +42,3 @@ function mapEntryToBlogPost(entry: Entry): BlogPost {
     publishDate: fields.publishDate,
   };
 }
-//Type
